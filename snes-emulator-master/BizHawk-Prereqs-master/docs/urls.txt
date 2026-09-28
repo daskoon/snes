@@ -1,0 +1,3 @@
+http://blogs.msdn.com/b/astebner/archive/2010/05/05/10008146.aspx
+Supposedly (see above url) the 2010 non-sp1 isnt needed
+I've recently removed 2008 too, I dont think we're using that anymore. If we are, lets fix it.

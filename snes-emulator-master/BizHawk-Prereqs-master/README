@@ -1,0 +1,6 @@
+BizHawk is supported on operating systems as old as Windows 7 SP1 64-bit.
+If BizHawk crashes when you run it, it is probably because you are lacking some of the prerequisites
+
+See this file for more information about what this prerequisite installer is including:
+
+https://github.com/TASVideos/BizHawk-Prereqs/blob/2.4.8_1/dist/info.txt
